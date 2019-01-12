@@ -1,3 +1,5 @@
 f()
 {
+  
+  /* bla bla bla
 }
